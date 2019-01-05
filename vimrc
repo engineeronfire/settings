@@ -52,3 +52,4 @@ set dir^=~/.vim_backup//
 set listchars=tab:▸\ ,eol:¬
 set softtabstop=4
 highlight Comment ctermfg=lightblue
+set paste
